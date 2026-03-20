@@ -1,0 +1,8 @@
+services:
+  python:
+    image: dpokidov/imagemagick:latest-trixie
+    stdin_open: true # docker run -i
+    tty: true        # docker run -t
+    command: sh -c "tail -f /dev/null"
+    volumes:
+      - .:/usr/src/app
