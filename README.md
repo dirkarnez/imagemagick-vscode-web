@@ -10,3 +10,4 @@ imagemagick-vscode-web
 ### WebAssembly
 - [longlost/wasm-imagemagick: Inspired by the https://github.com/KnicKnic/WASM-ImageMagick library. The module utilizes ES imports to simplify the api and removes the Web Worker abstraction.](https://github.com/longlost/wasm-imagemagick)
 - [KnicKnic/WASM-ImageMagick: Webassembly compilation of https://github.com/ImageMagick/ImageMagick & samples](https://github.com/KnicKnic/WASM-ImageMagick)
+- [Compiling ImageMagick to WebAssembly: A Complete Guide | by ThamizhElango Natarajan | Medium](https://thamizhelango.medium.com/compiling-imagemagick-to-webassembly-a-complete-guide-80da0732f70f)
